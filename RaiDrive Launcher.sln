@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaiDrive Launcher", "RaiDrive Launcher.csproj", "{910C5B7F-1E09-4402-99C4-D220595C7FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910C5B7F-1E09-4402-99C4-D220595C7FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910C5B7F-1E09-4402-99C4-D220595C7FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910C5B7F-1E09-4402-99C4-D220595C7FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910C5B7F-1E09-4402-99C4-D220595C7FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E969D5-6850-42CB-9597-DAA29AD0CA13}
+	EndGlobalSection
+EndGlobal
